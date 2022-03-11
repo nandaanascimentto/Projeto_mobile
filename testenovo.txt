@@ -1,1 +1,1 @@
-primeiro codigo 
+print(hello world)
